@@ -8,7 +8,7 @@ Frontend
 https://smartclass-frontend-eosin.vercel.app/
 
 Backend
-https://smartclass-mai.streamlit.app/
+https://smartclass-maian.streamlit.app/
 
 
 ## Features
