@@ -5,7 +5,7 @@ An AI-powered attendance system using Face Recognition and Voice Recognition.
 ## Live Demo
 
 Frontend
-https://smartclass-frontend-eosin.vercel.app/
+https://smartclass-ai-attendance-system.vercel.app/
 
 Backend
 https://smartclass-maian.streamlit.app/
